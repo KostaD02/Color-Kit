@@ -1,3 +1,3 @@
-# Color kit
+# Color Utils
 
 WIP
