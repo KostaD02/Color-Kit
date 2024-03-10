@@ -14,12 +14,16 @@ npm i @kostad/color-utils
 
 This library is compatible with both JavaScript and TypeScript projects, allowing seamless integration into a wide range of web development environments.
 
+For JavaScript:
+
 ```js
 const { getRandomHex, getRandomRgb } = require("@kostad/color-utils");
 
 console.log(getRandomHex()); // #b68e0a
 console.log(getRandomRgb()); // rgb(104,95,95)
 ```
+
+For Typescript
 
 ```ts
 import { getRandomHex, getRandomRgb } from "@kostad/color-utils";
